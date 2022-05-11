@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #A2B29F;
+    color: #FBF8F1;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+p {
+    font-size: 12px;
+}
+
+.banner {
+    height: 200px;
+    background-image: url('banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.banner h1 {
+    padding: 50px 0;
+}
+
+.title {
+    font-family: fantasy;
+    
+}
+
+.title h4 {
+    background-color: #87AAAA;
+    
+}
+q {
+    font-size: 14px;
+}
+
+
+.destination {
+    text-align: left;
+    margin: 15px;
+}
+.destination h4 {
+    color: #CEE5D0;
+}
+
+.attraction ul {
+    list-style-type: square;
+    font-size: 12px;
+}
+
+.attraction ul li {
+    margin-left: 15px;
+    padding-left: 10px;
+    color: #FF7171;
+}
+
+.attraction h6 {
+    color: #B8DFD8;
+}
+
+.more {
+    text-align: left;
+    margin: 15px;
+}
+
+.more h4 {
+    color: #456268;
+}
+
+.more ul {
+    list-style-type: circle;
+    font-size: 12px;
+}
+
+.more ul li {
+    margin-left: 15px;
+    padding-left: 10px;
+    color: #FABEA7;
+}
+
+.footer {
+    margin: 5px;
+    padding: 10px;
+    font-family: monospace;
+    border: 2px solid #596E79;
+    border-radius: 15px;
+    /* background-color: aquamarine; */
+}
+.footer h4{
+    font-family: monospace;
+    color: black;
+}
+.footer h5 {
+    display: inline-block;
+    width: 200px;
+    color: black;
+}
+.footer a {
+    display: inline-block;
+    color: black;
+}
